@@ -1,0 +1,215 @@
+akunUtama;akunKelompok;akunJenis;akunObjek;Uraian
+4;;;;PENDAPATAN
+4;1;;;Pendapatan Asli Desa
+4;1;1;;Hasil Usaha
+4;1;1;1;Bagi Hasil BUMDes
+4;1;1;90;Bagi Hasil BUMDes Bersama
+4;1;2;;Hasil Aset
+4;1;2;1;Pengelolaan Tanah Kas Desa
+4;1;2;2;Tambatan Perahu
+4;1;2;3;Pasar Desa
+4;1;2;4;Tempat Pemandian Umum
+4;1;2;5;Jaringan Irigasi Desa
+4;1;2;6;Hasil Tempat Pelelangan Ikan yang Dikelola oleh Desa
+4;1;2;7;Hasil Kios Desa
+4;1;2;8;Pemanfaatan Lapangan/Sarana Olahraga Desa Lainnya
+4;1;2;90;Hasil Badan Kredit Desa
+4;1;2;91;Hasil Mata Air Desa/Sarana Air Bersih Desa
+4;1;2;92;Hasil Wisata/Tempat Rekreasi/Makam dan/atau Petilasan yang dikelola oleh Desa
+4;1;2;93;Gedung Serba Guna Desa
+4;1;2;94;Hasil Lumbung Desa
+4;1;2;95;Hasil Jaringan Internet yang dikelola oleh Desa
+4;1;2;96;Hasil Kerjasama Antar Desa
+4;I;2;97;Hasil Peralatan Milik Desa yang dikelola oleh Desa
+4;1;3;;Swadaya, Partisipasi dan Gotong Royong
+4;1;3;1;Swadaya, partisipasi dan gotong royong
+4;1;3;90;Bantuan Masyarakat Berupa Uang
+4;1;4;;Lain-lain Pendapatan Asli Desa
+4;1;4;1;Hasil Pungutan Desa
+4;l;4;90;Hasil Penjualan Kekayaan Desa yang tidak Dipisahkan
+4;1;4;91;Hasil Penerimaan Komisi, Potongan atau Bentuk lain Serbagai Akibat dari Penjualan dan/atau Pengadaan Barang dan/atau Jasa oleh Desa
+4;2;;;Transfer
+4;2;1;;Dana Desa
+4;2;1;1;Dana Desa
+4;2;2;;Bagian dari Hasil Pajak dan Retribusi Daerah Kabupaten /kota
+4;2;2;1;Bagian dari Hasil Pajak dan Retribusi Daerah Kabupaten/kota
+4;2;3;;Alokasi Dana Desa
+4;2;3;1;Alokasi Dana Desa
+4;2;4;;Bantuan Keuangan Provinsi
+4;2;4;1;Bantuan Keuangan dari APBD Provinsi
+4;2;5;;Bantuan Keuangan APBD Kabupaten /Kota
+4;2;5;1;Bantuan Keuangan APBD Kabupaten/Kota
+4;3;;;Pendapatan Lain-lain
+4;3;1;;Penerimaan dari Hasil Kerjasama Desa
+4;3;1;1;Penerimaan dari Hasil Kerjasama Antar Desa
+4;3;2;;Penerimaan dari Hasil Kerjasama Desa dengan Pihak Ketiga
+4;3;2;1;Penerimaan dari Hasil Kerjasama Desa dengan Pihak Ketiga
+4;3;3;;Penerimaan dari Bantuan Perusahaan yang berlokasi di Desa
+4;3;3;1;Penerimaan dari Bantuan Perusahaan yang berlokasi di Desa
+4;3;4;;Hibah dan sumbangan dari Pihak Ketiga
+4;3;4;1;Hibah dan sumbangan dari Pihak Ketiga
+4;3;5;;Koreksi kesalahan belanja tahun-tahun anggaran sebelumnya yang mengakibatkan penerimaan di kas Desa pada tahun anggaran berjalan
+4;3;5;1;Koreksi kesalahan belanja tahun-tahun anggaran sebelumnya yang mengakibatkan penerimaan di kas Desa pada tahun anggaran berjalan
+4;3;6;;Bunga Bank
+4;3;6;1;Bunga Bank
+4;3;9;;Lain-lain pendapatan Desa yang sah
+4;3;9;90;Bantuan dari Pemerintah/Kementerian
+4;3;9;91;Hasil Penerimaan atas Tuntutan Ganti Kerugian Desa
+5;;;;BELANJA
+5;1;;;Belanja Pegawai
+5;1;1;;Penghasilan Tetap dan Tunjangan Kepala Desa
+5;1;1;1;Penghasilan Tetap Kepala Desa
+5;1;1;2;Tunjangan Kepala Desa
+5;1;1;90;Penyediaan Tambahan Tunjangan Kepala Desa dari Pendapatan Asli Desa
+5;1;1;91;Penyediaan Tali Asih / Penghargaan Purna Tugas Kepala Desa
+5;1;1;92;Penyediaan Uang Duka Kepala Desa
+5;1;2;;Penghasilan Tetap dan Tunjangan Perangkat Desa
+5;1;2;1;Penghasilan Tetap Perangkat Desa
+5;1;2;2;Tunjangan Perangkat Desa
+5;1;2;90;Penyediaan Tambahan Tunjangan Perangkat Desa dari Pendapatan Asli Desa
+5;1;2;91;Penyediaan Tali Asih/ Penghargaan Purna Tugas Perangkat Desa
+5;1;2;92;Penyediaan Uang Duka Perangkat Desa
+5;1;3;;Jaminan Sosial Kepala Desa dan Perangkat Desa
+5;1;3;1;Jaminan Kesehatan Kepala Desa
+5;1;3;2;Jaminan Kesehatan Perangkat Desa
+5;1;3;3;Jaminan Ketenagakerjaan Kepala Desa
+5;1;3;4;Jaminan Ketenagakerjaan Perangkat Desa
+5;1;4;;Tunjangan BPD
+5;1;4;1;Tunjangan Kedudukan BPD
+5;1;4;2;Tunjangan Kinerja BPD
+5;2;;;Belanja Barang dan Jasa
+5;2;1;;Belanja Barang Perlengkapan
+5;2;1;1;Belanja Perlengkapan Alat Tulis Kantor dan Benda Pos
+5;2;1;2;Belanja Perlengkapan Alat-alat Listrik
+5;2;1;3;Belanja Perlengkapan Alat-alat Rumah Tangga/Peralatan dan Bahan Kebersihan
+5;2;1;4;Belanja Bahan Bakar Minyak/Gas/Isi Ulang Tabung Pemadam Kebakaran
+5;2;1;5;Belanja Perlengkapan Cetak/Penggandaan - Belanja Barang Cetak dan Penggandaan
+5;2;1;6;Belanja Perlengkapan Barang Konsumsi (Makan/minum) - Belanja Barang Konsumsi
+5;2;1;7;Belanja Bahan/Material
+5;2;1;8;Belanja Bendera/Umbul-umbul/Spanduk
+5;2;1;9;Belanja Pakaian Dinas/Seragam/Atribut
+5;2;1;10;Belanja Obat-obatan
+5;2;1;11;Belanja Pakan Hewan/Ikan, Obat-obatan Hewan
+5;2;1;12;Belanja Pupuk/Obat-obatan Pertanian
+5;2;1;90;Belanja Dokumentasi
+5;2;1;92;Belanja Aksesoris/Dekorasi Kantor
+5;2;2;;Belanja Jasa Honorarium
+5;2;2;1;Belanja Jasa Honorarium Tim yang Melaksanakan Kegiatan
+5;2;2;2;Penyediaan insentif/honoranum staf, penjaga kantor, operator SID dan juru kunci makam Desa
+5;2;2;3;Belanja Jasa Honorarium/Insentif Pelayanan Desa, Kader Posyandu, Kader Kesehatan Desa dan Kader Masyarakat Desa
+5;2;2;4;Belanja Jasa Honorarium Ahli/Profesi/Konsultan/Narasumber
+5;2;2;5;Belanja Jasa Honoranum Petugas (Diberikan kepada Guru PAUD, RA,TPA/TPQ, Tenaga Kesehatan yang milik Desa, Majalah Dinding milik Desa)
+5;2;3;;Belanja Perjalanan Dinas
+5;2;3;1;Belanja Operasional Peijalanan Dinas Dalam Kabupaten/Kota
+5;2;3;2;Belanja Operasional Perjalanan Dinas Luar Kabupaten/Kota
+5;2;3;3;Belanja Kursus/Pelatihan
+5;2;4;;Belanja Jasa Sewa
+5;2;4;1;Belanja Jasa Sewa Bangunan/Gedung
+5;2;4;2;Belanja Jasa Sewa Peralatan/Perlengkapan
+5;2;4;3;Belanja Jasa Sewa Sarana Mobilitas
+5;2;4;90;Belanja Jasa Sewa Mesin dan alat berat
+5;2;5;;Belanja Operasional Perkantoran
+5;2;5;1;Belanja Jasa Langganan Listrik
+5;2;5;2;Belanja Jasa Langganan Air Bersih
+5;2;5;3;Belanja Jasa Langganan Majalah/Surat Kabar
+5;2;5;4;Belanja Jasa Langganan Telepon
+5;2;5;5;Belanja Jasa Langganan Internet
+5;2;5;6;Belanja Jasa Kurir/ Pos/ Giro
+5;2;5;7;Belanja Jasa Perpanjangan Ijin/Pajak
+5;2;5;90;Belanja Jasa Service Peralatan Elektronik dan Listrik
+5;2;5;91;Belanja Jasa Pengumuman dan/atau Pemenang Lelang
+5;2;5;92;Belanja Insentif/Operasional RT/RW
+5;2;5;93;Belanja Jasa transaksi keuangan (Administrasi Bank, Pajak Bank, dll)
+5;2;5;94;Belanja Operasional/insentif RT/RW
+5;2;6;;Belanja Pemeliharaan
+5;2;6;1;Belanja Pemeliharaan Mesin dan Peralatan Berat
+5;2;6;2;Belanja Pemeliharaan Kendaraan Bermotor
+5;2;6;3;Belanja Pemeliharaan Peralatan
+5;2;6;4;Belanja Pemeliharaan Bangunan
+5;2;6;5;Belanja Pemeliharaan Jalan
+5;2;6;6;Belanja Pemeliharaan Jembatan
+5;2;6;7;Belanja Pemeliharaan Irigasi/Saluran Sungai/Embung/Air Bersih, Jaringan Air Limbah, Persampahan, dll
+5;2;6;8;Belanja Pemeliharaan Jaringan dan Instalasi (Listrik, Telephon, Internet, Komunikasi, dll)
+5;2;6;90;Belanja Pemeliharaan Lapangan Olahraga
+5;2;7;;Belanja Barang dan Jasa yang Diserahkan kepada Masyarakat
+5;2;7;1;Belanja Bahan Perlengkapan yang Diserahkan ke masyarakat
+5;2;7;2;Belanja Bantuan Mesin/ kendaraaan bermotor/Peralatan yang diserahkan ke masyarakat
+5;2;7;3;Belanja Bantuan Bangunan yang diserahkan ke masyarakat
+5;2;7;4;Belanja Beasiswa Berprestasi/Masyarakat Miskin
+5;2;7;5;Belanja Bantuan Bibit Tanaman/Hewan/Ikan
+5;3;;;BELANJA MODAL
+5;3;1;;Belanja Modal Pengadaan Tanah
+5;3;1;1;Belanja Modal Pembebasan/ Pembelian Tanah
+5;3;1;2;Belanja Modal Pembayaran Honorarium Tim Tanah
+5;3;1;3;Belanja Modal Pengukuran dan Pembuatan Sertifikat Tanah
+5;3;1;4;Belanja Modal Pengurukan dan Pematangan Tanah
+5;3;1;5;Belanja Modal Perjalanan Pengadaan Tanah
+5;3;2;;Belanja Modal Peralatan, Mesin, dan Alat Berat
+5;3;2;1;Belanja Modal Honorarium Tim yang melaksanakan kegiatan
+5;3;2;2;Belanja Modal Peralatan Elektronik dan Alat Studio
+5;3;2;3;Belanja Modal Peralatan Komputer
+5;3;2;4;Belanja Modal Peralatan Mebeulair dan Aksesori Ruangan
+5;3;2;5;Belanja Modal Peralatan Dapur
+5;3;2;6;Belanja Modal Peralatan Alat Ukur
+5;3;2;7;Belanja Modal Peralatan Rambu-rambu/Patok Tanah
+5;3;2;8;Belanja Modal Peralatan khusus Kesehatan
+5;3;2;9;Belanja Modal Peralatan khusus Pertanian/ Perikanan/ Peternakan
+5;3;2;10;Belanja Modal Mesin
+5;3;2;11;Belanja Modal Pengadaan Alat-Alat Berat
+5;3;3;;Belanja Modal Kendaraan
+5;3;3;1;Belanja Modal Honor Tim yang Melaksanakan Kegiatan
+5;3;3;2;Belanja Modal Kendaraan Darat Bermotor
+5;3;3;3;Belanja Modal Angkutan Darat Tidak Bermotor
+5;3;3;4;Belanja Modal Kendaraan Air Bermotor
+5;3;3;5;Belanja Modal Angkutan Air Tidak Bermotor
+5;3;4;;Belanja Modal Gedung, Bangunan dan Taman
+5;3;4;1;Belanja Modal Honor Tim yang Melaksanakan Kegiatan
+5;3;4;2;Belanja Modal Upah Tenaga Kerja
+5;3;4;3;Belanja Modal Bahan Baku
+5;3;4;4;Belanja Modal Sewa Peraiatan
+5;3;4;90;Belanja Modal Administrasi Penunjang Kegiatan
+5;3;5;;Belanja Modal Jalan/Prasarana Jalan
+5;3;5;1;Belanja Modal Honor Tim yang Melaksanakan Kegiatan
+5;3;5;2;Belanja Modal Upah Tenaga Kerja
+5;3;5;3;Belanja Modal Bahan Baku
+5;3;5;4;Belanja Modal Sewa Peraiatan
+5;3;5;90;Belanja Modal Administrasi Penunjang Kegiatan
+5;3;6;;Belanja Modal Jembatan
+5;3;6;1;Belanja Modal Honor Tim yang Melaksanakan Kegiatan
+5;3;6;2;Belanja Modal Upah Tenaga Kerja
+5;3;6;3;Belanja Modal Bahan Baku
+5;3;6;4;Belanja Modal Sewa Peralatan
+5;3;6;90;Belanja Modal Administrasi Penunjang Kegiatan
+5;3;7;;Belanja Modal Irigasi/Embung/Air Sungai/Drainase/Air Limbah/Persampahan
+5;3;7;1;Belanja Modal Honor Tim yang Melaksanakan Kegiatan
+5;3;7;2;Belanja Modal Upah Tenaga Kerja
+5;3;7;3;Betanja Modal Bahan Baku
+5;3;7;4;Belanja Modal Sewa Peralatan
+5;3;7;90;Belanja Modal Administrasi Penunjang Kegiatan
+5;3;8;;Belanja Modal Jaringan/Instalasi
+5;3;8;1;Belanja Modal Honor Tim yang Melaksanakan Kegiatan
+5;3;8;2;Belanja Modal Upah Tenaga Kerja
+5;3;8;3;Belanja Modal Bahan Baku
+5;3;8;4;Belanja Modal Sewa Peralatan
+5;3;8;90;Belanja Modal Administrasi Penunjang Kegiatan
+5;3;9;;Belanja Modal Lainnya
+5;3;9;1;Belanja Modal khusus Pendidikan dan Perpustakaan
+5;3;9;2;Belanja Modal khusus Olahraga
+5;3;9;3;Belanja Modal khusus Kesenian/Kebudayaan/ keagamaan
+5;3;9;4;Belanja Modal Tumbuhan/Tanaman
+5;3;9;5;Belanja Modal Hewan
+5;4;;;Belanja Tak Terduga
+5;4;1;;Belanja Tak Terduga
+5;4;1;1;Belanja Tak Terduga
+6;;;;PEMBIAYAAN
+6;1;;;Penerimaan Pembiayaan
+6;1;1;;SILPA Tahun Sebelumnya
+6;1;1;1;SILPA Tahun Sebelumnya
+6;1;2;;Pencairan Dana Cadangan
+6;1;2;1;Pencairan Dana Cadangan
+6;1;3;;Hasil Penjualan Kekayaan Desa yang Dipisahkan
+6;1;3;1;Hasil Penjualan Kekayaan Desa yang Dipisahkan
+6;1;9;;Penerimaan Modal Desa
+6;1;9;90;Penerimaan Modal Desa
+6;2;;;Pengeluaran Pembiayaan
+6;2;1;;Pembentukan Dana Cadangan

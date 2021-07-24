@@ -1,0 +1,57 @@
+kodeFungsi;kodeSubfungsi;namaFungsi
+1;;Pelayanan Umum
+1;1;Statistik
+1;2;Kearsipan
+1;3;Komunikasi & Informatika
+1;4;Persandian
+1;5;Perencanaan Pembangunan
+1;6;Penelitian dan Pengembangan
+1;7;Pendidikan dan Pelatihan
+1;8;Keuangan
+1;9;Kepegawaian
+1;10;Sekretariat Daerah
+1;11;Sekretariat DPRD
+1;12;Inspektorat
+1;13;Kecamatan
+1;14;Kekhususan
+2;;Ketertiban dan Keamanan
+2;1;Kesatuan Bangsa dan Politik Dalam Negeri - Ketenteraman, Ketertiban Umum dan Perlindungan Masyarakat
+2;2;Ketenteraman, Ketertiban Umum dan Perlindungan Masyarakat
+2;3;Pengelolaan Perbatasan Daerah
+3;;Ekonomi
+3;1;Perhubungan
+3;2;Tenaga Kerja
+3;3;Koperasi dan Usaha Kecil Menengah
+3;4;Penanaman Modal
+3;5;Pemberdayaan Masyarakat dan Desa
+3;6;Pertanian
+3;7;Kehutanan
+3;8;Energi dan Sumber Daya Mineral
+3;9;Kelautan dan Perikanan
+3;10;Perdagangan
+3;11;Perindustrian
+3;12;Transmigrasi
+4;;Perlindungan Lingkungan Hidup
+4;1;Penataan Ruang
+4;2;Lingkungan Hidup
+4;3;Pertanahan
+5;;Perumahan dan Fasilitasi Umum
+5;1;Pekerjaan Umum
+5;2;Perumahan Rakyat dan Kawasan Pemukiman
+6;;Kesehatan
+6;1;Kesehatan
+6;2;Pengendalian Penduduk dan Keluarga Berencana
+7;;Pariwisata
+7;1;Kebudayaan
+7;2;Pariwisata
+8;;Pendidikan
+8;1;Pendidikan
+8;2;Kepemudaan dan Olahraga
+8;3;Perpustakaan
+9;;Perlindungan Sosial
+9;1;Administrasi Kependudukan dan Pencatatan Sipil
+9;2;Pemberdayaan Perempuan dan Perlindungan Anak
+9;3;Keluarga Sejahtera-Bantuan Sosial
+9;4;Sosial
+9;5;Pangan
+9;6;Penanggulangan Bencana
